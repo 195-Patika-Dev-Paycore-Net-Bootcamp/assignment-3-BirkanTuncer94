@@ -8,7 +8,17 @@ It is an API project that will enable a company working on smart waste collectio
 Postgre sql database was used in the project. It contains two tables, the vehicle and container tables. There are 2 data in the vehicle table and 16 data in the container table. There are 2 controller classes and 10 http methods in total.
 There are transaction structures, try catch methods and lists in the project.
 
-<b> For the 1st item requested in the project: </b> The entire list is returned using the httpget method.
+<b> For the 1st item requested in the project: </b> Tables were created with the help of postgresql and filled in manually
+<b> For the 2st item requested in the project: </b> Actual locations not used
+<b> For the 3st item requested in the project: </b> The entire list is returned using the httpget method. For adding a new vehicle, httppost method used.
+<b> For the 4st item requested in the project: </b> httpput method is used to update vehicle information
+<b> For the 5st item requested in the project: </b> The httpdelete method is used to delete the vehicle data, but if the id of the deleted vehicle is added to any container, that container is also deleted.
+<b> For the 6st item requested in the project: </b> The vehicleid property is created in the container class and the connection between the vehicle and the container is made here.
+<b> For the 7st item requested in the project: </b> The entire list is returned using the httpget method. For adding a new container, httppost method used.
+<b> For the 8st item requested in the project: </b> httpput method is used to update container information but its not changing the vehicle id of the container.
+<b> For the 9st item requested in the project: </b> The httpdelete method is used to delete the container data
+<b> For the 10st item requested in the project: </b> Using the connection created with vehicle id, all containers connected to the vehicle queried with this id are shown.
+<b> For the 11st item requested in the project: </b> As a general algorithm, according to the information received from the user, how many elements each cluster will take is calculated in advance and then the containers we have are placed in the clusters according to this number. In the last set, all the missing or extra containers are added. Download the Code for more information.
 
 
 <h3> Screenshots from the project </h3>
