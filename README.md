@@ -1,7 +1,7 @@
 # Birkan Tuncer Assignment - 3
 <h2> Project Description </h2>
 
-It is an API study that will enable a company working on smart waste collection systems to collect all containers by visiting all points in the shortest time by using the garbage collection vehicle in the most optimal way.
+It is an API project that will enable a company working on smart waste collection systems to collect all containers by visiting all points in the shortest time by using the garbage collection vehicle in the most optimal way.
 
 <h3> Screenshots from the project </h3>
 
