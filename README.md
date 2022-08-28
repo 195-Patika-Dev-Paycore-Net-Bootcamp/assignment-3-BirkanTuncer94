@@ -66,10 +66,10 @@ There are transaction structures, try catch methods and lists in the project.
    
 ![swaggercontainersgetbyvehicleid](https://user-images.githubusercontent.com/97250941/187081852-03b520d5-d704-4705-bd2f-6cc1e84200d2.png)
    
-<h4> Container Table <h4>
+<h4> Put Vehicle <h4>
     
 ![swaggerput](https://user-images.githubusercontent.com/97250941/187081856-b02c8cec-b478-4ba2-936b-8b7a7fb3b854.png)
     
-<h4> Container Table <h4>
+<h4> GetAll Vehicle <h4>
      
 ![swaggervehiclegetall](https://user-images.githubusercontent.com/97250941/187081860-48031934-3ffd-456c-bce6-925ea4bb35d8.png)
