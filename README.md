@@ -1,4 +1,4 @@
-# assignment-3-BirkanTuncer
+# Birkan Tuncer Assignment - 3
 
 ![postgresql1](https://user-images.githubusercontent.com/97250941/187081823-1f1202f6-ae36-47ef-b96c-dfe84ac7c1ca.png)
 ![postgresql2](https://user-images.githubusercontent.com/97250941/187081828-e8dd7c0b-0f76-451a-8669-98937b0ffc2b.png)
