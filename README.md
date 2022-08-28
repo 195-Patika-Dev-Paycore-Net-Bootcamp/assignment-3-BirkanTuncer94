@@ -3,6 +3,14 @@
 
 It is an API project that will enable a company working on smart waste collection systems to collect all containers by visiting all points in the shortest time by using the garbage collection vehicle in the most optimal way.
 
+<h2> Code details of the project </h2>
+
+Postgre sql database was used in the project. It contains two tables, the vehicle and container tables. There are 2 data in the vehicle table and 16 data in the container table. There are 2 controller classes and 10 http methods in total.
+There are transaction structures, try catch methods and lists in the project.
+
+<b> For the 1st item requested in the project: </b> The entire list is returned using the httpget method.
+
+
 <h3> Screenshots from the project </h3>
 
 ![postgresql1](https://user-images.githubusercontent.com/97250941/187081823-1f1202f6-ae36-47ef-b96c-dfe84ac7c1ca.png)
